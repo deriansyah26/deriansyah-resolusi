@@ -2,10 +2,11 @@ Rencana belajar programmer
 
 - belajar odoo
 * semoga bisa dalam 2 minggu
- > kalo bisa 1 minggu aja
+ > semoga bisa 1 minggu
 * semoga istiqomah belajarnya
  > semangat bro
 * semoga Allah membantu dan memudahkan dalam belajar
+ > aamiin
 - belajar git
 - belajar php
 - belajar javascript
