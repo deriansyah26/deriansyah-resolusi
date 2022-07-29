@@ -1,0 +1,6 @@
+Rencana belajar programmer
+
+- belajar odoo
+- belajar git
+- belajar php
+- belajar javascript
